@@ -54,7 +54,7 @@ function App() {
           </div>
           <div className="col-md-2 mt-3">
             <button
-              className="btn btn-outline-info form-control"
+              className="btn btn-outline-dark form-control"
               onClick={AddTask}
             >
               Add
