@@ -1,0 +1,12 @@
+.app-background {
+    background-image: url(https://wallpapercave.com/uwp/uwp4566624.jpeg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    min-height: 100vh;     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: white; 
+  }
+  
